@@ -1,6 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
+// add in `frontend/src/index.js`
+import "react-toastify/dist/ReactToastify.css";
+
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
